@@ -18,7 +18,7 @@
 ## 🛠️ Technologies Used
 * **Frontend:** HTML5, CSS3, JavaScript / [React / Vue / Angular]
 * **Styling:** [Tailwind CSS / Material-UI / SCSS]
-* **Design Tools:** [Figma / Adobe XD]
+* **Design Tools:** [Figma]
 * **Deployment:** Netlify
 
 ## 🚀 Live Demo
