@@ -1,6 +1,6 @@
 # 🧠 Synthiq AI ERP
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Dashboard-blue?style=for-the-badge)](https://synthiqaierp.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Website-blue?style=for-the-badge)](https://synthiqaierp.netlify.app/)
 [![License](https://img.shields.io/badge/License-Copyright%202026-red.svg)](#copyright)
 [![Author](https://img.shields.io/badge/Author-Gokulnath%20V-purple.svg)](#copyright)
 
